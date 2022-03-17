@@ -1,0 +1,10 @@
+{
+  "id": "widget-test",
+  "name": "Widget test",
+  "version": "0.0.0",
+  "minAppVersion": "0.9.12",
+  "description": "",
+  "author": "AidenLx",
+  "authorUrl": "https://github.com/aidenlx",
+  "isDesktopOnly": true
+}
