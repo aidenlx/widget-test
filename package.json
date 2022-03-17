@@ -12,15 +12,21 @@
   },
   "keywords": [],
   "author": {
-    "name" : "AidenLx",
-    "email" : "aiden.lx@outlook.com",
+    "name": "AidenLx",
+    "email": "aiden.lx@outlook.com",
     "url": "https://github.com/aidenlx"
   },
   "license": "MIT",
   "devDependencies": {
+    "@aidenlx/esbuild-plugin-obsidian": "^0.1.8",
     "@aidenlx/eslint-config": "^0.0.0",
     "@aidenlx/prettier-config": "^0.0.0",
     "@aidenlx/ts-config": "^0.0.0",
+    "@codemirror/language": "^0.19.8",
+    "@codemirror/rangeset": "^0.19.9",
+    "@codemirror/state": "^0.19.9",
+    "@codemirror/stream-parser": "^0.19.7",
+    "@codemirror/view": "^0.19.47",
     "@release-it/bumper": "^3.0.1",
     "@release-it/conventional-changelog": "^4.1.0",
     "@types/json-schema": "^7.0.9",
